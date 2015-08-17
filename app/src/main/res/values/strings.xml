@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">4PDA Reader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Categories-->
+    <string name="category_news">News</string>
+    <string name="category_articles">Articles</string>
+    <string name="category_reviews">Reviews</string>
+    <string name="category_software">Software</string>
+    <string name="category_games">Games</string>
+
+</resources>
